@@ -1,0 +1,7 @@
+# Information on how to run:
+You can run it using 'java SicAssemble test.asm'. 
+For the test1.asm, you can provide any argument. 
+Alternatively, you can run it directly using 'java SicAssembler'. 
+Don't worry, we have a default test1.asm provided for testing purposes.
+
+

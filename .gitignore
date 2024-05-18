@@ -1,0 +1,7 @@
+*.class
+q1.asm
+q2.asm
+q3.asm
+q4.asm
+intermidate.asm 
+object_program.txt
